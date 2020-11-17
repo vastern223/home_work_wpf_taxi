@@ -1,0 +1,15 @@
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\bin\Debug\homework_wpf_taxi.exe.config
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\bin\Debug\homework_wpf_taxi.exe
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\bin\Debug\homework_wpf_taxi.pdb
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\homework_wpf_taxi.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\MainWindow.g.cs
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\App.g.cs
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\homework_wpf_taxi_MarkupCompile.cache
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\homework_wpf_taxi_MarkupCompile.lref
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\MainWindow.baml
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\homework_wpf_taxi.g.resources
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\homework_wpf_taxi.Properties.Resources.resources
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\homework_wpf_taxi.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\homework_wpf_taxi.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\homework_wpf_taxi.exe
+C:\Users\Kolotyuk\source\repos\homework_wpf_taxi\homework_wpf_taxi\obj\Debug\homework_wpf_taxi.pdb
